@@ -1,2 +1,3 @@
-# helloworld - this is my first edit on a seperate branch "readme-edits"
+# helloworld 
 First repository and birth to the digital world 
+Heh whatsup world =)
